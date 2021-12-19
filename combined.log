@@ -1,1 +1,66 @@
 {"level":"info","message":"Winston Logger Testing","service":"user-service"}
+{"level":"info","message":"Inside Trace Test","service":"user-service"}
+{"level":"info","message":"Inside Trace Test","service":"user-service"}
+{"level":"info","message":"Inside Trace Test","service":"user-service"}
+{"level":"info","message":"Inside Trace Test","service":"user-service"}
+{"level":"info","message":"start trace test","service":"user-service"}
+{"level":"info","message":"end trace test","service":"user-service"}
+{"level":"info","message":"start trace test","service":"user-service"}
+{"level":"info","message":"end trace test","service":"user-service"}
+{"level":"info","message":"start trace test","service":"user-service"}
+{"level":"info","message":"end trace test","service":"user-service"}
+{"level":"info","message":"start trace test","service":"user-service"}
+{"level":"info","message":"ONE","service":"user-service"}
+{"level":"info","message":"TWO","service":"user-service"}
+{"level":"info","message":"end trace test","service":"user-service"}
+{"level":"info","message":"THREE","service":"user-service"}
+{"level":"info","message":"start trace test"}
+{"level":"info","message":"ONE"}
+{"level":"info","message":"TWO"}
+{"level":"info","message":"end trace test"}
+{"level":"info","message":"THREE"}
+2021-12-19T18:20:46.309Z [right meow!] info: start trace test
+2021-12-19T18:20:46.310Z [right meow!] info: ONE
+2021-12-19T18:20:46.311Z [right meow!] info: TWO
+2021-12-19T18:20:46.311Z [right meow!] info: end trace test
+2021-12-19T18:20:46.315Z [right meow!] info: THREE
+2021-12-19T18:21:15.441Z [undefined] info: start trace test
+2021-12-19T18:21:15.446Z [undefined] info: ONE
+2021-12-19T18:21:15.448Z [undefined] info: TWO
+2021-12-19T18:21:15.449Z [undefined] info: end trace test
+2021-12-19T18:21:15.452Z [undefined] info: THREE
+2021-12-19T18:21:21.223Z [undefined] info: start trace test
+2021-12-19T18:21:21.223Z [undefined] info: ONE
+2021-12-19T18:21:21.224Z [undefined] info: TWO
+2021-12-19T18:21:21.224Z [undefined] info: end trace test
+2021-12-19T18:21:21.226Z [undefined] info: THREE
+2021-12-19T18:21:21.262Z [undefined] info: start trace test
+2021-12-19T18:21:21.263Z [undefined] info: ONE
+2021-12-19T18:21:21.263Z [undefined] info: TWO
+2021-12-19T18:21:21.263Z [undefined] info: end trace test
+2021-12-19T18:21:21.264Z [undefined] info: THREE
+undefined [undefined] info: start trace test
+undefined [undefined] info: ONE
+undefined [undefined] info: TWO
+undefined [undefined] info: end trace test
+undefined [undefined] info: THREE
+undefined [undefined] info: start trace test
+undefined [undefined] info: ONE
+undefined [undefined] info: TWO
+undefined [undefined] info: end trace test
+undefined [undefined] info: THREE
+undefined [undefined] info: start trace test
+undefined [undefined] info: ONE
+undefined [undefined] info: TWO
+undefined [undefined] info: end trace test
+undefined [undefined] info: THREE
+19 [1639938218997] info: start trace test
+19 [1639938218997] info: ONE
+19 [1639938218997] info: TWO
+19 [1639938218997] info: end trace test
+19 [1639938218997] info: THREE
+19 [1639938251286] info: start trace test
+19 [1639938251286] info: ONE
+19 [1639938251286] info: TWO
+19 [1639938251286] info: end trace test
+19 [1639938251286] info: THREE
